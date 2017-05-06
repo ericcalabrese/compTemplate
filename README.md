@@ -4,4 +4,4 @@ This is a template made with Bootstrap which uses HTML, CSS and Javascript to fo
 
 You can git clone this repo or click below to see it online:
 
-Template
+https://techtemplate.surge.sh/
